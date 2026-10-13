@@ -1,0 +1,31 @@
+# Imagens do site
+
+Enquanto um arquivo não existir, o site mostra um placeholder com o nome e o caminho esperado.
+Basta salvar a foto com o nome exato abaixo (WebP ou AVIF, otimizada).
+
+dra-silvia/
+  dra-silvia-hero.webp ............ 960×1200 (retrato vertical, Hero)
+  dra-silvia-atendimento.webp ..... 1000×1250 (seção Dra. Silvia)
+
+tratamentos/
+  estetica-dental.webp ............ 1000×1200
+  protese-reabilitacao.webp ....... 1000×760
+  clareamento-dental.webp ......... 800×1000
+  clinica-geral.webp .............. 800×1000
+  avaliacao.webp .................. 800×1000
+
+casos/   (somente casos com autorização do paciente e conforme normas do CFO)
+  casoA_1.webp / casoA_2.webp ..... antes / depois — Caso 01 (1200×750)
+  casoB_1.webp / casoB_2.webp ..... Caso 02
+  casoC_1.webp / casoC_2.webp ..... Caso 03
+
+consultorio/
+  consultorio-01.webp ............. 1200×1400 (foto principal, vertical)
+  consultorio-02.webp ............. 1000×700 (horizontal)
+  consultorio-03.webp ............. 700×900
+  consultorio-04.webp ............. 700×900
+
+As imagens já usadas na LP (silvia-chagas-720, atendimento-1000, atendimento2-1000,
+sorriso-1000, planejamento-600, casoA/B/C) podem ser renomeadas e reaproveitadas aqui.
+
+../icons/  favicon.png e apple-touch-icon.png já gerados a partir do símbolo da logo.
