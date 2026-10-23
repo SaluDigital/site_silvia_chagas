@@ -34,8 +34,15 @@
 
   <!-- GTM ID HERE -->
   <!-- (snippet <script> do Google Tag Manager — inserir aqui, o mais alto possível no <head>) -->
-  <!-- GA4 CONFIGURATION HERE -->
-  <!-- (preferencialmente configurar o GA4 dentro do GTM, ouvindo o evento "whatsapp_click" do dataLayer) -->
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-TRKHLGESTY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-TRKHLGESTY');
+  </script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
