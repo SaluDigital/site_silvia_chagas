@@ -1,0 +1,31 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Dra. Silvia Chagas — Cirurgiã-Dentista em Salvador/BA",
+    "identifier": "drasilviachagas.com.br",
+    "documentationUrl": "https://drasilviachagas.com.br/llms.txt"
+  },
+  "entries": [
+    {
+      "identifier": "urn:drasilviachagas.com.br:llms-txt",
+      "displayName": "Guia do site para modelos de linguagem (llms.txt)",
+      "description": "Resumo em Markdown do consultório, dos tratamentos, do endereço, dos horários e do canal de agendamento.",
+      "mediaType": "text/markdown",
+      "url": "https://drasilviachagas.com.br/llms.txt"
+    },
+    {
+      "identifier": "urn:drasilviachagas.com.br:website",
+      "displayName": "Site do consultório (página única)",
+      "description": "Página inicial com tratamentos, casos, consultório, localização e dúvidas frequentes. Inclui dados estruturados schema.org (Dentist, Person, FAQPage).",
+      "mediaType": "text/html",
+      "url": "https://drasilviachagas.com.br/"
+    },
+    {
+      "identifier": "urn:drasilviachagas.com.br:sitemap",
+      "displayName": "Sitemap XML",
+      "description": "Lista das páginas públicas do site.",
+      "mediaType": "application/xml",
+      "url": "https://drasilviachagas.com.br/sitemap.xml"
+    }
+  ]
+}

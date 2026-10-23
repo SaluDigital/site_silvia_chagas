@@ -153,7 +153,7 @@
   if (parallaxEls.length) {
     const pObs = new IntersectionObserver((entries) => {
       entries.forEach((en) => (en.isIntersecting ? inView.add(en.target) : inView.delete(en.target)));
-      runParallax();
+      requestAnimationFrame(runParallax); // evita reflow forçado dentro do callback do observer
     }, { rootMargin: '10% 0px' });
     parallaxEls.forEach((el) => pObs.observe(el));
   }

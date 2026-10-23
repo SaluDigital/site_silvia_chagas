@@ -1,0 +1,23 @@
+# Dra. Silvia Chagas — Cirurgiã-Dentista em Salvador/BA
+
+> Site oficial do consultório da Dra. Silvia Chagas (CRO-BA 3018), cirurgiã-dentista com mais de 40 anos de atuação, especialista em Prótese Dental. Atende em Salvador, Bahia, com foco em Prótese e Reabilitação Oral, Estética Dental, Clareamento Dental e Clínica Geral. O site é uma página única em português do Brasil; o agendamento é feito pelo WhatsApp.
+
+Observação: o conteúdo é informativo e não substitui avaliação clínica presencial. A indicação de qualquer tratamento depende de diagnóstico individual.
+
+## Páginas
+
+- [Página inicial](https://drasilviachagas.com.br/): apresentação, tratamentos, casos, consultório, localização e dúvidas frequentes
+- [Tratamentos](https://drasilviachagas.com.br/#tratamentos): Estética Dental, Clareamento Dental, Prótese e Reabilitação Oral, Clínica Geral e Prevenção, Avaliação clínica
+- [Sobre a Dra. Silvia](https://drasilviachagas.com.br/#dra-silvia): formação (UFBA e UNICASTELO-SP) e trajetória profissional
+- [Dúvidas frequentes](https://drasilviachagas.com.br/#duvidas): respostas sobre tratamentos, avaliação, localização e agendamento
+
+## Contato e localização
+
+- Endereço: Centro Odontomédico Henri Dunant, Rua Agnelo Brito, 187, Sala 305, Salvador/BA, CEP 40210-245
+- Horário: segunda a sexta, 8h às 19h; sábado, 8h às 12h
+- Agendamento: [WhatsApp (71) 99909-0838](https://wa.me/5571999090838)
+
+## Dados para máquinas
+
+- [Sitemap](https://drasilviachagas.com.br/sitemap.xml)
+- [Catálogo de IA (ai-catalog)](https://drasilviachagas.com.br/.well-known/ai-catalog.json)
