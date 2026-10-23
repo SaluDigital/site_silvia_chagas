@@ -7,25 +7,39 @@
   },
   "entries": [
     {
-      "identifier": "urn:drasilviachagas.com.br:llms-txt",
+      "identifier": "urn:air:drasilviachagas:site:llms-txt",
       "displayName": "Guia do site para modelos de linguagem (llms.txt)",
       "description": "Resumo em Markdown do consultório, dos tratamentos, do endereço, dos horários e do canal de agendamento.",
-      "mediaType": "text/markdown",
-      "url": "https://drasilviachagas.com.br/llms.txt"
+      "type": "text/markdown",
+      "url": "https://drasilviachagas.com.br/llms.txt",
+      "representativeQueries": [
+        "Quais tratamentos a Dra. Silvia Chagas oferece em Salvador?",
+        "Qual o endereço e o horário de atendimento do consultório da Dra. Silvia Chagas?",
+        "Como agendar uma consulta com a Dra. Silvia Chagas?"
+      ]
     },
     {
-      "identifier": "urn:drasilviachagas.com.br:website",
+      "identifier": "urn:air:drasilviachagas:site:website",
       "displayName": "Site do consultório (página única)",
       "description": "Página inicial com tratamentos, casos, consultório, localização e dúvidas frequentes. Inclui dados estruturados schema.org (Dentist, Person, FAQPage).",
-      "mediaType": "text/html",
-      "url": "https://drasilviachagas.com.br/"
+      "type": "text/html",
+      "url": "https://drasilviachagas.com.br/",
+      "representativeQueries": [
+        "Dentista especialista em prótese dental e reabilitação oral em Salvador",
+        "Estética dental e clareamento dental em Salvador",
+        "Dra. Silvia Chagas CRO-BA 3018"
+      ]
     },
     {
-      "identifier": "urn:drasilviachagas.com.br:sitemap",
+      "identifier": "urn:air:drasilviachagas:site:sitemap",
       "displayName": "Sitemap XML",
       "description": "Lista das páginas públicas do site.",
-      "mediaType": "application/xml",
-      "url": "https://drasilviachagas.com.br/sitemap.xml"
+      "type": "application/xml",
+      "url": "https://drasilviachagas.com.br/sitemap.xml",
+      "representativeQueries": [
+        "Quais páginas existem no site da Dra. Silvia Chagas?",
+        "Sitemap do site drasilviachagas.com.br"
+      ]
     }
   ]
 }
